@@ -295,7 +295,7 @@ h2{
 }
 
 /* Media Queries */
-@media screen and (max-width:480px){
+@media screen and (max-width:600px){
   .navbar{
     width:100%;
   }
