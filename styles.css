@@ -190,7 +190,7 @@
   }
   .skills h1{
     position: relative;
-    bottom: 50px;
+    bottom:50px; 
   }
   .skill-item{
     text-align: center;
@@ -313,7 +313,7 @@ h2{
 
 
 /* Media Queries */
-@media screen and (max-width:600px){
+@media (max-width:600px){
   body{
     overflow-x: hidden;
   }
@@ -427,13 +427,11 @@ h2{
     grid-gap: 20px;
     padding-left:450px; 
   }
-
   .skill-item {
     text-align: center;
     width: auto;
     margin:20px;
   }
-
   img {
     width: 100%; 
   }
